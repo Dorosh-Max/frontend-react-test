@@ -1,0 +1,2 @@
+(this.webpackJsonplesson4=this.webpackJsonplesson4||[]).push([[0],{3:function(e,t,n){"use strict";n.r(t);var s=n(0),o=n.n(s),r=n(2),a=n.n(r),c=o.a.createElement("a",{href:"https://www.google.com"},"\u043f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f \u043d\u0430 \u0433\u0443\u0433\u043b");a.a.render(c,document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.5aab88c1.chunk.js.map
